@@ -41,6 +41,7 @@ public class Soru1 {
         return builder.toString();
     }
 
+    //remote
     
     public void int sum(int number1, int number2) {
     return number1+number2;
