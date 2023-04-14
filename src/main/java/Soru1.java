@@ -50,6 +50,8 @@ public class Soru1 {
     public static int multiple(int num1, int num2) {
         return num1 * num2;
     }
+    
+    //remote
 
 
 }
