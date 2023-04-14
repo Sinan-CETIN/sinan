@@ -41,6 +41,10 @@ public class Soru1 {
         return builder.toString();
     }
 
+    
+    public void int sum(int number1, int number2) {
+    return number1+number2;
+    }
 
     //local
     public static int multiple(int num1, int num2) {
